@@ -1,0 +1,8 @@
+python-dotenv
+pydantic
+langchain-community
+langchain-ollama
+langchain-core
+langchain-text-splitters
+pymupdf4llm
+chromadb
